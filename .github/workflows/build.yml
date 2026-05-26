@@ -1,4 +1,4 @@
-name: Build XyzMod APK
+name: Build XyzModd APK
 
 on:
   push:
